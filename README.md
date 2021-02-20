@@ -4,11 +4,11 @@
 
 
 ## as1 - Camera calibration
-Direct Linear Transform, Golden Standard algorithm <br/>
+Direct Linear Transform, Gold Standard algorithm <br/>
  <br/>
  
 ## as2 - Local features
-feature detector, local descriptor <br/>
+Harris detector, local descriptor <br/>
  <br/>
  
 ## as3 - Object tracking
@@ -16,7 +16,7 @@ particle filter <br/>
  <br/>
  
 ## as4 - Model fitting
-RANSAC, fundamental matrix estimation <br/>
+RANSAC (normal and adaptive), fundamental matrix estimation <br/>
  <br/>
  
 ## as5 - Image segmentation
@@ -40,6 +40,6 @@ condensation tracker <br/>
  <br/>
  
 ## as10 - Image catrgorization
-codebook construction, bag-of-word representation <br/>
+codebook construction, bag-of-word representation, Nearest Neighbor classifier, Bayesian classifier <br/>
 
 ***
