@@ -1,5 +1,6 @@
 # ETH-Computer-Vision
-[Computer Vision](https://cvg.ethz.ch/teaching/compvis/) course assignment in 2020 Fall @ ETH Zurich
+[Computer Vision](https://cvg.ethz.ch/teaching/compvis/) course assignments in 2020 Fall @ ETH Zurich
+> Correctness is NOT guaranteed but overall grade is > 95%
 
 
 ## as1 - Camera calibration
