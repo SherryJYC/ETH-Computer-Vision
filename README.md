@@ -28,7 +28,7 @@ winner-takes-all, graph-cut <br/>
 <img src="./misc/as6.png" alt="img" width="400"/>
  
 ## as7 - Structure-from-Motion
-simple SfM, only 5 images
+simple SfM, only 5 images <br/>
 <img src="./misc/as7.png" alt="img" width="400"/>
  
 ## as8 - Shape context
