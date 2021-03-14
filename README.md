@@ -1,5 +1,5 @@
 # ETH-Computer-Vision
-[Computer Vision](https://cvg.ethz.ch/teaching/compvis/) course assignments in 2020 Fall @ ETH Zurich
+My course assignments for [Computer Vision](https://cvg.ethz.ch/teaching/compvis/) in 2020 Fall @ ETH Zurich
 > Correctness is NOT guaranteed but overall grade is > 95%
 
 
