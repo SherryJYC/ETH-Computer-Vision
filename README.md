@@ -25,7 +25,7 @@ EM, mean shift <br/>
  
 ## as6 - Stereo matching
 winner-takes-all, graph-cut <br/>
-<img src="./misc/as6.PNG" alt="img" width="400"/>
+<img src="./misc/as6.png" alt="img" width="400"/>
  
 ## as7 - Structure-from-Motion
 simple SfM, only 5 images
