@@ -5,23 +5,23 @@
 
 ## as1 - Camera calibration
 Direct Linear Transform, Gold Standard algorithm <br/>
-<img src="./misc/as1.PNG" alt="img" width="400"/>
+<img src="./misc/as1.png" alt="img" width="400"/>
  
 ## as2 - Local features
 Harris detector, local descriptor <br/>
-<img src="./misc/as2.PNG" alt="img" width="400"/>
+<img src="./misc/as2.png" alt="img" width="400"/>
  
 ## as3 - Object tracking
 particle filter <br/>
-<img src="./misc/as3.PNG" alt="img" width="400"/>
+<img src="./misc/as3.png" alt="img" width="400"/>
  
 ## as4 - Model fitting
 RANSAC (normal and adaptive), fundamental matrix estimation <br/>
-<img src="./misc/as4.PNG" alt="img" width="400"/>
+<img src="./misc/as4.png" alt="img" width="400"/>
  
 ## as5 - Image segmentation
 EM, mean shift <br/>
-<img src="./misc/as5.PNG" alt="img" width="400"/>
+<img src="./misc/as5.png" alt="img" width="400"/>
  
 ## as6 - Stereo matching
 winner-takes-all, graph-cut <br/>
@@ -29,17 +29,17 @@ winner-takes-all, graph-cut <br/>
  
 ## as7 - Structure-from-Motion
 simple SfM, only 5 images
-<img src="./misc/as7.PNG" alt="img" width="400"/>
+<img src="./misc/as7.png" alt="img" width="400"/>
  
 ## as8 - Shape context
 shape context descriptor, shape matching <br/>
-<img src="./misc/as8.PNG" alt="img" width="400"/>
+<img src="./misc/as8.png" alt="img" width="400"/>
  
 ## as9 - Object tracking
 condensation tracker <br/>
-<img src="./misc/as9.PNG" alt="img" width="400"/>
+<img src="./misc/as9.png" alt="img" width="400"/>
  
 ## as10 - Image catrgorization
 codebook construction, bag-of-word representation, Nearest Neighbor classifier, Bayesian classifier <br/>
-<img src="./misc/as10.PNG" alt="img" width="400"/>
+<img src="./misc/as10.png" alt="img" width="400"/>
 ***
